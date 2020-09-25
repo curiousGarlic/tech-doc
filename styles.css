@@ -24,7 +24,7 @@ body {
   width: 10vw;
 }
 
-#img-life-characteristics {
+.img-content {
   display: block;
   margin: 0 auto;
   width: 80%;
